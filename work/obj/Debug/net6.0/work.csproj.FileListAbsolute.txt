@@ -1,0 +1,15 @@
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\bin\Debug\net6.0\work.exe
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\bin\Debug\net6.0\work.deps.json
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\bin\Debug\net6.0\work.runtimeconfig.json
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\bin\Debug\net6.0\work.dll
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\bin\Debug\net6.0\ref\work.dll
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\bin\Debug\net6.0\work.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.dll
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\ref\work.dll
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.pdb
+C:\Users\fedma\OneDrive\Рабочий стол\КОНТРОЛЬНАЯ\work\obj\Debug\net6.0\work.genruntimeconfig.cache
